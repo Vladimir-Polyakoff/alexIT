@@ -39,7 +39,6 @@ export default {
 </script>
 
 <style scoped>
-
   h1 {
     font-size: 45px;
     letter-spacing: 4px;
